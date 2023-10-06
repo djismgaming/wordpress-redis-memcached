@@ -1,4 +1,4 @@
-# WordPress image with added redis and memcached
+# WordPress image with added redis and memcached support
 
 This needs a reverse proxy like [SWAG](https://fleet.linuxserver.io/image?name=linuxserver/swag)
 
